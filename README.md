@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ashutosh AKA @CoderAsh1
-- 👀 I’m interested in Web DEVELOPMENT
+- 👀 Javascript is my Favourite Language
+- 👀 I’m a FrontEnd Web Develop
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on openSource Projects
 - 📫 How to reach me ... just mail me at - ashutoshsasmal1@gmail.com
