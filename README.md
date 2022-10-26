@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ashutosh AKA @CoderAsh1
 - :whale: Javascript is my Favourite Language
-- 👀 I’m a FrontEnd Web Develop
-- 🌱 I’m currently learning React
+- 👀 I’m a FrontEnd Web Developer
+- 🌱 I’m currently learning MERN
+- :whale: Check out my portfolio at https://ashutoshsasmal.netlify.app
 - 💞️ I’m looking to collaborate on openSource Projects
 - 📫 How to reach me ... just mail me at - ashutoshsasmal1@gmail.com
 
