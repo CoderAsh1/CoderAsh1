@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning MERN
 - :whale: Check out my portfolio at https://ashutoshsasmal.netlify.app
 - 💞️ I’m looking to collaborate on openSource Projects
-- 📫 How to reach me ... just mail me at - ashutoshsasmal1@gmail.com
+- 📫 How to reach me ... 
+- just mail me at - ashutoshsasmal1@gmail.com or
+- LinkedIn - https://www.linkedin.com/in/coderash1/
 
 
 
