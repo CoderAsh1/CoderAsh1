@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ashutosh AKA @CoderAsh1
-- :whale: Javascript is my Favourite Language
-- 👀 I’m a FrontEnd Web Developer
-- 🌱 I’m currently learning MERN
+- :whale: Building Scalable System is my primary hobby
+- 👀 I’m a Fullstack Developer
 - :whale: Check out my portfolio at https://ashutoshsasmal.netlify.app
 - 💞️ I’m looking to collaborate on openSource Projects
 - 📫 How to reach me ... 
