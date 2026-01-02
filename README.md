@@ -3,10 +3,17 @@
   <p><strong>Full-Stack Software Engineer | Java & Node.js Specialist | System Design Enthusiast</strong></p>
 </div>
 
+# 📊 GitHub Stats:
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coderAsh1&show_icons=true&theme=radical&rank_icon=github&display_format=svg" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderAsh1&layout=compact&theme=radical" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderAsh1&show_icons=true&theme=radical&rank_icon=github" alt="Ashutosh's GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderAsh1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 
 ---
 
